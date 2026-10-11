@@ -1,0 +1,26 @@
+command_id: 6F1.660.22D10D|e=60,fc=1
+test_cases:
+- expected_values:
+    XM_ODO: 1771
+    XM_ODO_ALT: 1771
+  response: |-
+    660F1100B62D10D0000
+    660F12106EB000006EB
+- expected_values:
+    XM_ODO: 1772
+    XM_ODO_ALT: 1772
+  response: |-
+    660F1100B62D10D0000
+    660F12106EC000006EC
+- expected_values:
+    XM_ODO: 1773
+    XM_ODO_ALT: 1773
+  response: |-
+    660F1100B62D10D0000
+    660F12106ED000006ED
+- expected_values:
+    XM_ODO: 1774
+    XM_ODO_ALT: 1774
+  response: |-
+    660F1100B62D10D0000
+    660F12106EE000006EE

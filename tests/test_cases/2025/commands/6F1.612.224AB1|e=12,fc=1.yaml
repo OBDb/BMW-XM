@@ -1,0 +1,8 @@
+command_id: 6F1.612.224AB1|e=12,fc=1
+test_cases:
+- expected_values:
+    XM_VSS2: 0
+  response: 612F105624AB10000
+- expected_values:
+    XM_VSS2: 24.8
+  response: 612F105624AB109B0
