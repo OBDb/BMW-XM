@@ -1,0 +1,50 @@
+command_id: 6F1.607.22DDC0|e=07,fc=1
+test_cases:
+- expected_values:
+    XM_HVBAT_CT_MAX: 16
+    XM_HVBAT_CT_MIN: 15.92
+  response: |-
+    607F1100A62DDC00638
+    607F1210640063C01
+- expected_values:
+    XM_HVBAT_CT_MAX: 15.99
+    XM_HVBAT_CT_MIN: 15.93
+  response: |-
+    607F1100A62DDC00639
+    607F121063F063C01
+- expected_values:
+    XM_HVBAT_CT_MAX: 17.83
+    XM_HVBAT_CT_MIN: 17.77
+  response: |-
+    607F1100A62DDC006F1
+    607F12106F706F501
+- expected_values:
+    XM_HVBAT_CT_MAX: 17.85
+    XM_HVBAT_CT_MIN: 17.8
+  response: |-
+    607F1100A62DDC006F4
+    607F12106F906F701
+- expected_values:
+    XM_HVBAT_CT_MAX: 17.93
+    XM_HVBAT_CT_MIN: 17.88
+  response: |-
+    607F1100A62DDC006FC
+    607F121070106FE01
+- expected_values:
+    XM_HVBAT_CT_MAX: 18.01
+    XM_HVBAT_CT_MIN: 17.96
+  response: |-
+    607F1100A62DDC00704
+    607F1210709070601
+- expected_values:
+    XM_HVBAT_CT_MAX: 19.1
+    XM_HVBAT_CT_MIN: 18.98
+  response: |-
+    607F1100A62DDC0076A
+    607F1210776077001
+- expected_values:
+    XM_HVBAT_CT_MAX: 21.06
+    XM_HVBAT_CT_MIN: 20.38
+  response: |-
+    607F1100A62DDC007F6
+    607F121083A081801

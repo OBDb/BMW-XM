@@ -1,0 +1,17 @@
+command_id: 6F1.618.22DA25|e=18,fc=1
+test_cases:
+- expected_values:
+    XM_EOT: 25
+  response: 618F10562DA250049
+- expected_values:
+    XM_EOT: 29
+  response: 618F10562DA25004D
+- expected_values:
+    XM_EOT: 34
+  response: 618F10562DA250052
+- expected_values:
+    XM_EOT: 40
+  response: 618F10562DA250058
+- expected_values:
+    XM_EOT: 46
+  response: 618F10562DA25005E
