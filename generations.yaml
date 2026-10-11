@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/BMW_XM"
+
+generations:
+  - name: "G09"
+    start_year: 2023
+    end_year: null
+    description: "A plug-in hybrid SUV with the 4.4 L S68 V8 and an electric motor in the eight-speed automatic."
