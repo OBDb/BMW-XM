@@ -8,4 +8,5 @@ test_cases:
   response: 618F10562DA2E0101
 - expected_values:
     XM_GEAR: DRIVE
+    XM_GEAR_SHIFT: DRIVE
   response: 618F10562DA2E0403
